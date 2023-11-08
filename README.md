@@ -3,6 +3,10 @@
 # Overview
 This repository contains code and resources for a credit card fraud detection project that compares the performance of two machine learning methodologies: Logistic Regression and Convolutional Neural Networks (CNN). The goal of this project is to identify and prevent unauthorized or fraudulent transactions on credit and debit cards, considering the increasing prevalence of cashless transactions and the evolving landscape of financial services.
 
+# Dataset
+Open source dataset from Kaggle.
+LINK: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
+
 # Table of Contents
 Introduction, 
 Related Work, 
