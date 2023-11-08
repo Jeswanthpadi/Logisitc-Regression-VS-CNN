@@ -4,18 +4,18 @@
 This repository contains code and resources for a credit card fraud detection project that compares the performance of two machine learning methodologies: Logistic Regression and Convolutional Neural Networks (CNN). The goal of this project is to identify and prevent unauthorized or fraudulent transactions on credit and debit cards, considering the increasing prevalence of cashless transactions and the evolving landscape of financial services.
 
 # Table of Contents
-Introduction
-Related Work
-Methods
-Results and Analysis
-Discussion
-Conclusion
-Getting Started
-Prerequisites
-Installation
-Usage
-Contributing
-License
+Introduction, 
+Related Work, 
+Methods, 
+Results and Analysis, 
+Discussion, 
+Conclusion, 
+Getting Started, 
+Prerequisites, 
+Installation, 
+Usage, 
+Contributing, 
+License.
 
 # Introduction
 Credit card fraud detection is a critical area of financial services, and this project aims to compare Logistic Regression and Convolutional Neural Networks (CNN) using evaluation metrics like accuracy, precision, recall, and F1-score to assess their effectiveness in detecting fraudulent transactions.
@@ -35,7 +35,7 @@ This section discusses the implications of the results and findings, including i
 # Conclusion
 The conclusion summarizes the key takeaways from the project, providing insights into the optimal choice of algorithms for credit card fraud detection and their potential impact on the financial industry's security in electronic transactions.
 
-Getting Started
+# Getting Started
 # Prerequisites
 List any software or libraries that need to be installed before running the code in this repository.
 
